@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XwgHgcGclY0=",
+  "success": true,
+  "projectFilePath": "F:\\Work\\eShop-Project\\ExampleMinimalProject\\ExampleMinimalProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aayush.Thakkar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
